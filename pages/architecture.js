@@ -5,7 +5,7 @@ import Contact from "../components/Contact";
 import { images } from "../components/demodata";
 
 
-const architecture = () => {
+const Architecture = () => {
 
   return (
     <>
@@ -332,4 +332,4 @@ const architecture = () => {
   );
 };
 
-export default architecture;
+export default Architecture;

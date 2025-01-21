@@ -1,0 +1,7 @@
+.project-child{
+    display: none;
+}
+ 
+.project-parent:hover .project-child{
+    display: block;
+}

@@ -48,7 +48,7 @@ const VideoFeedback = () => {
           </div>
 
           <h2 className="text-[22px] font-medium leading-[35px] md:leading-[75px] sm:text-4xl sm:font-semibold  md:text-5xl md:font-bold pt-2">
-            Let's See The Video &
+            Lets See The Video &
             <br />
             What Client Say About Our Project
           </h2>
@@ -74,7 +74,7 @@ const VideoFeedback = () => {
         </div>
         <div className="video-slider w-[243px] md:w-[360px] xl:w-[440px] h-[300px] md:h-[370px] xl:h-[445px] bg-white absolute z-40 -bottom-16 md:-bottom-20 right-7 md:right-12 shadow-2xl shadow-[#00000059]">
           <h1 className="my-2 text-center text-base xl:text-2xl font-medium py-1 lg:py-5">
-            WHAT CLIENT'S SAY?
+            WHAT CLIENTS SAY?
           </h1>
           <div className="w-full h-[2px] bg-[#B98E75]"></div>
 

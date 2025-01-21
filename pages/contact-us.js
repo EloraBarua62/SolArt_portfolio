@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React, { useState, useRef } from "react";
 import GlobalHeader from "../components/GlobalHeader";
-import { Map, Marker } from "react-map-gl";
+import { Map } from "react-map-gl";
 import emailjs from "@emailjs/browser";
 import { images } from "../components/demodata";
 

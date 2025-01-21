@@ -1,9 +1,5 @@
 import Image from "next/image";
 import React from "react";
-import bar from "../public/headerBar.svg";
-import phone from "../public/contact/phone.svg";
-import email from "../public/contact/email.svg";
-import address from "../public/contact/address.svg";
 import { images } from "./demodata";
 
 const Contact = () => {

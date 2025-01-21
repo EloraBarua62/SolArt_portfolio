@@ -6,14 +6,7 @@ import { images } from "../components/demodata";
 
 
 const architecture = () => {
-  const handleSubmit = (event) => {
-    event.preventDefault();
-    const name = event.target.name.value;
-    const email = event.target.email.value;
-    const number = event.target.number.value;
-    const subject = event.target.subject.value;
-    const message = event.target.message.value;
-  };
+
   return (
     <>
       <GlobalHeader></GlobalHeader>
@@ -180,7 +173,7 @@ const architecture = () => {
                 Contact Form
               </h1>
 
-              <form onSubmit={handleSubmit} className="h-full">
+              <form className="h-full">
                 <label
                   htmlFor="name"
                   className="py-5 text-xl font-medium text-white"
